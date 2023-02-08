@@ -1,5 +1,5 @@
 ### Particle Image Function
-### Version: 1..4
+### Version: 1.0.4
 ### Width: 128
 ### Height: 128
 ### ParticleType: flame
